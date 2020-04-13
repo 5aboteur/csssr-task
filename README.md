@@ -2,7 +2,7 @@
 
 ## Description
 
-Given a string of words separated by spaces. You have to transform this string into a data structure that groups these words by its first letter.
+Given a string of words separated by spaces. You have to transform this string into a data structure that groups these words by their first letters.
 
 The groups should be sorted in alphabetical order. Inner words should be sorted by their lengths and also in alphabetical order if the lengths are equal.
 
